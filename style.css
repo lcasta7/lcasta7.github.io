@@ -1,0 +1,17 @@
+html, body {
+    height: 50%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    text-align: center;
+    width: 90%;
+}
+
+img.marzi {
+    width: 20%;
+    height: auto;
+}
