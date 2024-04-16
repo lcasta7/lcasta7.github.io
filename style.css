@@ -16,3 +16,16 @@ img.marzi {
     width: 20%;
     height: auto;
 }
+
+img.button {
+    width: 3%;
+    height: auto;
+    justify-content: center;
+    margin-right: 10px;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none
+}
+
